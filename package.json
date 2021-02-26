@@ -1,0 +1,19 @@
+{
+  "name": "03-bases",
+  "version": "0.0.1",
+  "description": "Aplicacion en linea de comando par amultiplicar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dark3ros/03-node-bases.git"
+  },
+  "author": "Jose Sojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dark3ros/03-node-bases/issues"
+  },
+  "homepage": "https://github.com/Dark3ros/03-node-bases#readme"
+}
